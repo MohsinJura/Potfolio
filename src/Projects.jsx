@@ -15,7 +15,7 @@ const projects = [
       title: "Devloprz",
       category: "Company protfolio",
       image: "/devloprz.png",
-      url: "https://devloprz-so6t.vercel.app/",
+      url: "https://devloprz.vercel.app/",
     },
     {
       title: "Al-Ahbar Landing Page",
